@@ -942,6 +942,17 @@ pydantic v2     → Validación de contratos de datos en runtime
 
 *方程高于假设。物理高于启发式。验证高于信任。*
 
-[![CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+**专为天体物理学家和技术领域专家设计**
+
+---
+
+### 作者与版权
+**创建者:** Daniel Nuñez Rojas  
+**Email:** [contacto@laticces.cl](mailto:contacto@laticces.cl)  
+**网站:** [likancenti.cl](https://likancenti.cl)  
+**LinkedIn:** [linkedin.com/in/delnr91](https://www.linkedin.com/in/delnr91)  
+
+© 2026 Daniel Nuñez Rojas / Lattice / Likan-Centi. 保留所有权利。  
+*本智能体及其架构、启发式算法和数学框架均为专有，严格归作者所有。未经明确许可，严禁进行未经授权的分发、修改或商业使用。*
 
 </div>

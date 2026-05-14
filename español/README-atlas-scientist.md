@@ -942,6 +942,17 @@ pydantic v2     → Validación de contratos de datos en runtime
 
 *Ecuaciones sobre suposiciones. Física sobre heurística. Validación sobre confianza.*
 
-[![CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+**Enfocado para Astrofísicos y Expertos de Dominio Técnico**
+
+---
+
+### Autor y Licencia
+**Creador:** Daniel Nuñez Rojas  
+**Email:** [contacto@laticces.cl](mailto:contacto@laticces.cl)  
+**Web:** [likancenti.cl](https://likancenti.cl)  
+**LinkedIn:** [linkedin.com/in/delnr91](https://www.linkedin.com/in/delnr91)  
+
+© 2026 Daniel Nuñez Rojas / Lattice / Likan-Centi. Todos los derechos reservados.  
+*Este agente, su arquitectura, heurísticas y marcos matemáticos son propietarios y pertenecen estrictamente al autor. La distribución, modificación o uso comercial no autorizado sin permiso explícito está estrictamente prohibido.*
 
 </div>
