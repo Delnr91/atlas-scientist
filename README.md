@@ -1,4 +1,4 @@
-[README-atlas-scientist.md](https://github.com/user-attachments/files/27768539/README-atlas-scientist.md)
+
 <div align="center">
 
 <img src="https://img.shields.io/badge/SAR-Sentinel--1%20%7C%20ALOS--2%20%7C%20NISAR-0a7c6e?style=for-the-badge&logo=satellite&logoColor=white"/>
